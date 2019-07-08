@@ -16,6 +16,8 @@ This is a simple web project, deployment can be any web server or even local fil
 
 ## How to Continue
 
+PLease fork this repository and then issue Pull Request for review. 
+
 ### Copyright
 
 2019 Git Training
