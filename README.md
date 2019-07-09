@@ -2,6 +2,7 @@
 
 This is a simple website project for showing how to use Gitand Github together. 
 Adding a line for rebasing example. Lte's expand some more changes for myfeature branch as well.
+Coding is so confusing
 
 ## Introduction
 
