@@ -3,6 +3,7 @@
 
 # TEAM
 	Emily Do 	emily@digitera.org 
+	Almost everything i coded today didnt work
     <name> -- <role> -- <twitter>
 
 # THANKS
